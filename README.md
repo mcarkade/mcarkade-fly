@@ -1,6 +1,6 @@
 # mcarkade-fly
 
-A pocket camera drone of about 29 g, flown from an Android phone. It uses the
+A pocket camera drone of about 30 g, flown from an Android phone. It uses the
 ESP-FLY flight board and one XIAO ESP32-S3 Sense.
 
 - Build it with the [Phase 1 build guide](docs/mcarkade-fly-Phase-1-Build-Guide.pdf).
